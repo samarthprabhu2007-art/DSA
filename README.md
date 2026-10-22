@@ -4,6 +4,7 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 
 * [LeetCode](https://leetcode.com/)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
+* Codefores
 * Other competitive programming and practice platforms
 
 ## Topics Covered
